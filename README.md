@@ -1,4 +1,4 @@
-<h3 align="center">Joke Generato</h3>
+<h3 align="center">Joke Generator</h3>
 
 <h3 align="center">Personal project for me to enhance my JavaScript skills.</h3>
 
